@@ -1,2 +1,2 @@
 # gitTest
-A test for git cmd
+A test for git cmd updated
